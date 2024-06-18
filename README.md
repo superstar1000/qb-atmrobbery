@@ -7,3 +7,6 @@ qb-target , qb-minigames , ps-ui
 Config file for easy access
 
 Tested on QB but not tested on ESX should work though!
+
+
+--CLOSED
